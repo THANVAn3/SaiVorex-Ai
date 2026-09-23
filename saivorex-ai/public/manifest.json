@@ -1,0 +1,22 @@
+{
+  "name": "SaiVorex AI Cybersecurity Auditing Suite",
+  "short_name": "SaiVorex AI",
+  "description": "AI-Powered Application Security & Vulnerability Assessment Platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0F19",
+  "theme_color": "#0B0F19",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
+  ]
+}

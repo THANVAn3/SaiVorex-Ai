@@ -1,0 +1,6 @@
+{
+  "name": "SaiVorex AI Cybersecurity Auditing Suite",
+  "description": "AI-Powered Application Security & Vulnerability Assessment Platform analyzing OWASP Top 10 vulnerabilities, HTTP headers, phishing risks, code snippets, and live threat telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
